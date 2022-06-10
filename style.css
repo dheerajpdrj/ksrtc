@@ -1,0 +1,62 @@
+
+body{
+    font-size: 1rem;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.left-side{
+    display: flex;
+    
+}
+.nav-item{
+    font-size: 0.6rem;
+}
+
+.news-box{
+    position: absolute;
+    background-color: white;
+    width: 83%;
+    margin: 0px 12%;
+}
+.new span{
+    margin-bottom: 5%;
+}
+
+.bi-envelope{
+color: red;
+}
+.card-body p{
+margin: 0;
+}
+.card-body i{
+    margin: 0;
+    }
+
+/*.icon{
+        background-color: grey;
+        width: 10% !important;
+        height: 10% !important;
+    }
+    .icon:hover{
+        background-color: red;
+    }*/
+
+.col-md-3 a{
+    text-decoration: none;
+    color: white;
+   font-size: .6rem;
+}
+/*.container-fluid{
+    margin: 0;
+}*/
+
+.btn:hover {
+    background-color: #f3370d;
+    color: white;
+  }
+
+  .grid1:hover{
+    background-color: #f3370d;
+    color: white;
+  }
